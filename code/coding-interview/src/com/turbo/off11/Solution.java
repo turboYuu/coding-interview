@@ -1,4 +1,4 @@
-package com.turbo.offer11;
+package com.turbo.off11;
 
 /**
  * 旋转数组的最小数字

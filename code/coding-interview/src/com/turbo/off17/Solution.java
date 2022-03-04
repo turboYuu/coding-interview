@@ -1,4 +1,4 @@
-package com.turbo.offer17;
+package com.turbo.off17;
 
 /**
  *  打印从1到最大的n位数
