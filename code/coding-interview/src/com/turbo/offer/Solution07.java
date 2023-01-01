@@ -20,16 +20,18 @@ public class Solution07 {
         treeNode.setLeft(leftTreeNode1);
         // 找出前序遍历数组的首节点（即根节点）在中序遍历数组中的位置
         binaryIndex(preorder[0],inorder);
+        return null;
     }
 
     private int binaryIndex(int node, int[] inorder) {
-        int ans = 0,left = 0,right = inorder.length-1;
+        /*int ans = 0,left = 0,right = inorder.length-1;
         while(left<=right){
             int mid = (left+right)/2;
             if(){
 
             }
-        }
+        }*/
+        return 0;
     }
 
 

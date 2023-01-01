@@ -16,5 +16,6 @@ public class Solution12 {
     public boolean exist(char[][] board, String word) {
 
 
+        return false;
     }
 }
